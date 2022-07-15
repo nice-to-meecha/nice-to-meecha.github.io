@@ -1,2 +1,2 @@
-# Learning how to make simple websites with MDN
+# Learning about various HTML elements
 ## 7/14/2022
